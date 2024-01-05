@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ViveSR/Scenes/Lip/LipSample.unity
+    guid: 9c5916c10af9ceb469ce71edc027a554
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: e7bf1582d7f2ad344a8c9d717b869673, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c13ee04115a3772458ba5dd2fb0e5692, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79280736060a25b4182f07b7df12c6ee, type: 2}
